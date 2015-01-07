@@ -1,5 +1,5 @@
 {
-    "name": "@kissy/top",
+    "name": "kg-top",
     "version": "1.0.0",
     "main": "index.js",
     "ignore": [
