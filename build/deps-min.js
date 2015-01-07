@@ -1,0 +1,1 @@
+KISSY.config("requires",{"kg/top/1.0.0/index":["node","base","anim"],"kg/top/1.0.0/lib/main":["node","base"]});
